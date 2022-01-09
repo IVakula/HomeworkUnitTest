@@ -12,7 +12,7 @@ public class ArrayHandler {
             }
         }
         if (index < 0) {
-            throw new RuntimeException();
+            throw new RuntimeException("Array does not contain \"4\".");
         }
         return Arrays.copyOfRange(array, index + 1, array.length);
     }
