@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Package: homework23
+Created-By: Vakula Irina
+Main-Class: homework23.APP
